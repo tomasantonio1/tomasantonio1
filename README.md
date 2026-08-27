@@ -22,16 +22,22 @@ A ideia é registrar a evolução de uma jornada contínua, conectando fundament
 
 ## Minha atividade no GitHub
 
-<p align="center">
-	<a href="https://github.com/tomasantonio1">
-		<img src="https://github-readme-stats.vercel.app/api?username=tomasantonio1&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&locale=pt-br" alt="Estatísticas do GitHub de Tomás Antonio" height="165">
-	</a>
-	<a href="https://github.com/tomasantonio1?tab=repositories">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomasantonio1&theme=github_dark" alt="Linguagens mais utilizadas por Tomás Antonio" height="165">
-	</a>
-</p>
+<table>
+	<tr>
+		<td width="50%" align="center">
+			<a href="https://github.com/tomasantonio1">
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomasantonio1&theme=github_dark" alt="Estatísticas do GitHub de Tomás Antonio">
+			</a>
+		</td>
+		<td width="50%" align="center">
+			<a href="https://github.com/tomasantonio1?tab=repositories">
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomasantonio1&theme=github_dark" alt="Linguagens mais utilizadas por Tomás Antonio">
+			</a>
+		</td>
+	</tr>
+</table>
 
-Os cartões acima são atualizados a partir dos meus repositórios públicos. Clique neles para explorar meu perfil e os projetos em que as linguagens aparecem.
+Os cartões são atualizados a partir dos meus repositórios públicos. Acesse diretamente meu [perfil](https://github.com/tomasantonio1) ou a lista de [repositórios](https://github.com/tomasantonio1?tab=repositories).
 
 > Para que este conteúdo apareça diretamente no meu perfil, o repositório precisa ser público e ter exatamente o mesmo nome do meu usuário: `tomasantonio1/tomasantonio1`.
 
