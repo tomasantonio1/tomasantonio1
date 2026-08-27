@@ -49,7 +49,7 @@ Estou seguindo esta sequência para me tornar um verdadeiro Dev Native-AI. O pri
 
 ### Passo 1: Trilhas GFT do GitHub Copilot
 
-- [ ] **Em andamento:** [GitHub Copilot Program: Beginner Track](https://performancemanager5.successfactors.eu/sf/learning?destUrl=https://gfttechnol.plateau.com/learning/user/deeplink_redirect.jsp?linkId%3dPROGRAM_DETAILS%26programID%3dBR_GitHubCopilot_Beginner%26fromSF%3dY&company=gfttechnol)
+- [ X ] [GitHub Copilot Program: Beginner Track](https://performancemanager5.successfactors.eu/sf/learning?destUrl=https://gfttechnol.plateau.com/learning/user/deeplink_redirect.jsp?linkId%3dPROGRAM_DETAILS%26programID%3dBR_GitHubCopilot_Beginner%26fromSF%3dY&company=gfttechnol)
 - [ ] [GitHub Copilot Program: Intermediate Track](https://performancemanager5.successfactors.eu/sf/learning?destUrl=https://gfttechnol.plateau.com/learning/user/deeplink_redirect.jsp?linkId%3dPROGRAM_DETAILS%26programID%3dBR_GitHubCopilot_Intermediate%26fromSF%3dY&company=gfttechnol)
 - [ ] [GitHub Copilot Program: Advanced Track](https://performancemanager5.successfactors.eu/sf/learning?destUrl=https://gfttechnol.plateau.com/learning/user/deeplink_redirect.jsp?linkId%3dPROGRAM_DETAILS%26programID%3dBR_GitHubCopilot_Advanced%26fromSF%3dY&company=gfttechnol)
 
